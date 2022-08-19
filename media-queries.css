@@ -35,12 +35,33 @@ h1{
     width: 30%;
     float: right;
 }
+
+/* Footer */
+
 footer{
     margin-top: 20em;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
+
 footer p{
     font-size: .75em;
 }
+
+#social-media-links a {
+    color: black;
+}
+
+#social-media-links a:hover {
+    color: blue;
+}
+
+.fab {
+    font-size: 2em;
+    padding: .4em;
+}
+
 @media screen and (max-width: 481px) {
 
 .hidden-on-desktop{
@@ -87,5 +108,6 @@ nav{
 }
 footer{
     margin-top: 15em;
+    flex-direction: column;
 }
 }
