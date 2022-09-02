@@ -4,4 +4,4 @@
 
 Pair programming exercise.
 
-[Wireframe website](https://htmlpreview.github.io/?https://github.com/Ramaj-Greg-media-queries-exercise/media-queries-exercise/blob/main/media-queries.html)
+[Media Query Project](https://ramaj-greg-media-queries-exercise.github.io/media-queries-exercise/)
